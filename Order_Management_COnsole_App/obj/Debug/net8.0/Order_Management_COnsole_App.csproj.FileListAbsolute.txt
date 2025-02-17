@@ -1,0 +1,14 @@
+D:\Projects\Practice\Order_Management_COnsole_App\Order_Management_COnsole_App\bin\Debug\net8.0\Order_Management_COnsole_App.exe
+D:\Projects\Practice\Order_Management_COnsole_App\Order_Management_COnsole_App\bin\Debug\net8.0\Order_Management_COnsole_App.deps.json
+D:\Projects\Practice\Order_Management_COnsole_App\Order_Management_COnsole_App\bin\Debug\net8.0\Order_Management_COnsole_App.runtimeconfig.json
+D:\Projects\Practice\Order_Management_COnsole_App\Order_Management_COnsole_App\bin\Debug\net8.0\Order_Management_COnsole_App.dll
+D:\Projects\Practice\Order_Management_COnsole_App\Order_Management_COnsole_App\bin\Debug\net8.0\Order_Management_COnsole_App.pdb
+D:\Projects\Practice\Order_Management_COnsole_App\Order_Management_COnsole_App\obj\Debug\net8.0\Order_Management_COnsole_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Practice\Order_Management_COnsole_App\Order_Management_COnsole_App\obj\Debug\net8.0\Order_Management_COnsole_App.AssemblyInfoInputs.cache
+D:\Projects\Practice\Order_Management_COnsole_App\Order_Management_COnsole_App\obj\Debug\net8.0\Order_Management_COnsole_App.AssemblyInfo.cs
+D:\Projects\Practice\Order_Management_COnsole_App\Order_Management_COnsole_App\obj\Debug\net8.0\Order_Management_COnsole_App.csproj.CoreCompileInputs.cache
+D:\Projects\Practice\Order_Management_COnsole_App\Order_Management_COnsole_App\obj\Debug\net8.0\Order_Management_COnsole_App.dll
+D:\Projects\Practice\Order_Management_COnsole_App\Order_Management_COnsole_App\obj\Debug\net8.0\refint\Order_Management_COnsole_App.dll
+D:\Projects\Practice\Order_Management_COnsole_App\Order_Management_COnsole_App\obj\Debug\net8.0\Order_Management_COnsole_App.pdb
+D:\Projects\Practice\Order_Management_COnsole_App\Order_Management_COnsole_App\obj\Debug\net8.0\Order_Management_COnsole_App.genruntimeconfig.cache
+D:\Projects\Practice\Order_Management_COnsole_App\Order_Management_COnsole_App\obj\Debug\net8.0\ref\Order_Management_COnsole_App.dll

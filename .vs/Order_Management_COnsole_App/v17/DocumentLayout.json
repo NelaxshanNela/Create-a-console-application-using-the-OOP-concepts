@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Practice\\Order_Management_COnsole_App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3526E382-9222-4BDB-97BD-769EC04E6189}|Order_Management_COnsole_App\\Order_Management_COnsole_App.csproj|d:\\projects\\practice\\order_management_console_app\\order_management_console_app\\onlineorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3526E382-9222-4BDB-97BD-769EC04E6189}|Order_Management_COnsole_App\\Order_Management_COnsole_App.csproj|solutionrelative:order_management_console_app\\onlineorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3526E382-9222-4BDB-97BD-769EC04E6189}|Order_Management_COnsole_App\\Order_Management_COnsole_App.csproj|d:\\projects\\practice\\order_management_console_app\\order_management_console_app\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3526E382-9222-4BDB-97BD-769EC04E6189}|Order_Management_COnsole_App\\Order_Management_COnsole_App.csproj|solutionrelative:order_management_console_app\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3526E382-9222-4BDB-97BD-769EC04E6189}|Order_Management_COnsole_App\\Order_Management_COnsole_App.csproj|d:\\projects\\practice\\order_management_console_app\\order_management_console_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3526E382-9222-4BDB-97BD-769EC04E6189}|Order_Management_COnsole_App\\Order_Management_COnsole_App.csproj|solutionrelative:order_management_console_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3526E382-9222-4BDB-97BD-769EC04E6189}|Order_Management_COnsole_App\\Order_Management_COnsole_App.csproj|d:\\projects\\practice\\order_management_console_app\\order_management_console_app\\instoreorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3526E382-9222-4BDB-97BD-769EC04E6189}|Order_Management_COnsole_App\\Order_Management_COnsole_App.csproj|solutionrelative:order_management_console_app\\instoreorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InStoreOrder.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice\\Order_Management_COnsole_App\\Order_Management_COnsole_App\\InStoreOrder.cs",
+              "RelativeDocumentMoniker": "Order_Management_COnsole_App\\InStoreOrder.cs",
+              "ToolTip": "D:\\Projects\\Practice\\Order_Management_COnsole_App\\Order_Management_COnsole_App\\InStoreOrder.cs",
+              "RelativeToolTip": "Order_Management_COnsole_App\\InStoreOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:58:55.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnlineOrder.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice\\Order_Management_COnsole_App\\Order_Management_COnsole_App\\OnlineOrder.cs",
+              "RelativeDocumentMoniker": "Order_Management_COnsole_App\\OnlineOrder.cs",
+              "ToolTip": "D:\\Projects\\Practice\\Order_Management_COnsole_App\\Order_Management_COnsole_App\\OnlineOrder.cs",
+              "RelativeToolTip": "Order_Management_COnsole_App\\OnlineOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:57:41.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice\\Order_Management_COnsole_App\\Order_Management_COnsole_App\\Order.cs",
+              "RelativeDocumentMoniker": "Order_Management_COnsole_App\\Order.cs",
+              "ToolTip": "D:\\Projects\\Practice\\Order_Management_COnsole_App\\Order_Management_COnsole_App\\Order.cs",
+              "RelativeToolTip": "Order_Management_COnsole_App\\Order.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:57:08.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Practice\\Order_Management_COnsole_App\\Order_Management_COnsole_App\\Program.cs",
+              "RelativeDocumentMoniker": "Order_Management_COnsole_App\\Program.cs",
+              "ToolTip": "D:\\Projects\\Practice\\Order_Management_COnsole_App\\Order_Management_COnsole_App\\Program.cs",
+              "RelativeToolTip": "Order_Management_COnsole_App\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T08:56:41.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
