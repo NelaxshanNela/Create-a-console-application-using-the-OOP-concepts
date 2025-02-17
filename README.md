@@ -64,8 +64,3 @@ This project is licensed under the MIT License.
 🤝 Contributing
 
 Pull requests are welcome! If you find any issues, feel free to submit them.
-
-📧 Contact
-
-For any queries, reach out at your-email@example.com.
-
