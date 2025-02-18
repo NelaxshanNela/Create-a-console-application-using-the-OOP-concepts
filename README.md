@@ -26,7 +26,7 @@ Console Application
 
 Clone the Repository:
 
-git clone https://github.com/your-username/order-management-system.git
+git clone https://github.com/NelaxshanNela/Create-a-console-application-using-the-OOP-concepts.git
 cd order-management-system
 
 Open the Project in Visual Studio or VS Code
