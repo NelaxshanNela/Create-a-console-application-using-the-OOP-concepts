@@ -27,7 +27,7 @@ Console Application
 Clone the Repository:
 
 git clone https://github.com/NelaxshanNela/Create-a-console-application-using-the-OOP-concepts.git
-cd order-management-system
+cd Create-a-console-application-using-the-OOP-concepts
 
 Open the Project in Visual Studio or VS Code
 
@@ -56,10 +56,6 @@ Order Receipt:
 Order ID: 1001
 Customer: Alice
 Delivery Address: 456 Elm Street
-
-📜 License
-
-This project is licensed under the MIT License.
 
 🤝 Contributing
 
